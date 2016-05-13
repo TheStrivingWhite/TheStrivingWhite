@@ -1,6 +1,6 @@
 {
-  "name": "YY技术博客",
+  "name": "Objective-C Runtime 1",
   "tagline": "励志成为大牛",
-  "body": "# wocaonimabishilvde.github.io\r\n时时更新\r\n",
+  "body": "做iOS开发这么久了，大家都知道，iOS是运行时语言，就是把编译和链接时要执行的逻辑延迟到运行时，这样你的逻辑有什么不合理的地方就可以及时的去修补它，这就给你很大的灵活性，像c，c++，他们都是编译时就觉得掉那个函数，oc呢编译时并不能确定调用那个函数(事实证明，在编译的时候OC可以调用任何函数，只要这个函数声明过就可以，即使不实现也可以)，只有在真正运行的时候才会根据函数的名称找到对应的函数来调用。\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
